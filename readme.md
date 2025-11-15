@@ -15,6 +15,8 @@ A web-based tool for transcribing and analyzing Linear B script - the earliest f
 - **Example Corpus**: Pre-loaded authentic Linear B words and phrases
 - **Responsive Design**: Beautiful gradient interface inspired by Bronze Age aesthetics
 
+## 🎯 Live Demo 
+![Linear B Tool Screenshot](screenshot.png)
 
 ## 🚀 Quick Start
 
