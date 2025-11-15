@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linear B Transcription Tool</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <!-- Syllabary Sidebar -->
+    <div class="syllabary-sidebar" id="syllabary-sidebar">
+        <div class="sidebar-header">
+            <h3>Linear B Syllabary</h3>
+            <p class="sidebar-subtitle">Click to add signs</p>
+        </div>
+        <div class="syllabary-scroll" id="syllabary-container">
+            <!-- Loaded dynamically -->
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+        <div class="container">
+            <header>
+                <h1>🏛️ Linear B Transcription Tool</h1>
+                <p class="subtitle">Mycenaean Greek Digital Epigraphy</p>
+            </header>
+
+            <section class="input-section">
+                <h2>Transcribe Linear B</h2>
+                <textarea id="linearb-input" placeholder="Click syllabary signs to build your text, paste Linear B, or try examples below..." rows="5"></textarea>
+                <div class="button-group">
+                    <button id="transcribe-btn" class="btn btn-primary">Transcribe</button>
+                    <button id="clear-btn" class="btn btn-secondary">Clear</button>
+                    <button id="add-space-btn" class="btn btn-secondary">Add Space</button>
+                </div>
+            </section>
+
+            <section class="results-section" id="results" style="display: none;">
+                <h2>Results</h2>
+                <div class="result-card">
+                    <h3>Transliteration</h3>
+                    <div id="transliteration-output" class="output"></div>
+                </div>
+                <div class="result-card">
+                    <h3>Phonetic Transcription</h3>
+                    <div id="phonetic-output" class="output"></div>
+                </div>
+                <div class="result-card" id="analysis-section" style="display: none;">
+                    <h3>Word Analysis</h3>
+                    <div id="analysis-output"></div>
+                </div>
+            </section>
+
+            <section class="examples-section">
+                <h2>Try Examples</h2>
+                <div id="examples-container" class="examples-grid"></div>
+            </section>
+
+            <footer>
+                <p>Created by Ella Capellini | Computational Neuroscientist & Ancient Language Enthusiast</p>
+                <p>Linear B: c. 1450-1200 BCE | Deciphered by Ventris & Chadwick (1952)</p>
+            </footer>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

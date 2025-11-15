@@ -1,0 +1,218 @@
+{
+  "words": {
+    "wa-na-ka": {
+      "reconstruction": "wanax",
+      "meaning": "king, lord",
+      "classical_greek": "ἄναξ (anax)",
+      "etymology": "From *ϝάναξ with digamma",
+      "pos": "noun",
+      "declension": "3rd declension",
+      "case": "nominative singular",
+      "notes": "Loss of initial digamma (w) in Classical Greek"
+    },
+    "wa-na-ka-te": {
+      "reconstruction": "wanaktei",
+      "meaning": "to the king (dative)",
+      "classical_greek": "ἄνακτι (anakti)",
+      "pos": "noun",
+      "declension": "3rd declension",
+      "case": "dative singular"
+    },
+    "po-ti-ni-ja": {
+      "reconstruction": "potnia",
+      "meaning": "mistress, lady (goddess title)",
+      "classical_greek": "πότνια (potnia)",
+      "etymology": "Cognate with Latin 'potis' (powerful)",
+      "pos": "noun",
+      "declension": "1st declension",
+      "case": "nominative singular"
+    },
+    "te-o": {
+      "reconstruction": "theos",
+      "meaning": "god",
+      "classical_greek": "θεός (theos)",
+      "pos": "noun",
+      "declension": "2nd declension",
+      "case": "nominative singular"
+    },
+    "do-e-ro": {
+      "reconstruction": "doelos",
+      "meaning": "slave, servant",
+      "classical_greek": "δοῦλος (doulos)",
+      "pos": "noun",
+      "declension": "2nd declension",
+      "case": "nominative singular"
+    },
+    "e-ke": {
+      "reconstruction": "ekhei",
+      "meaning": "he/she has",
+      "classical_greek": "ἔχει (ekhei)",
+      "pos": "verb",
+      "tense": "present",
+      "person": "3rd singular",
+      "notes": "From verb ἔχω (to have, to hold)"
+    },
+    "o-no": {
+      "reconstruction": "onos",
+      "meaning": "donkey",
+      "classical_greek": "ὄνος (onos)",
+      "pos": "noun",
+      "declension": "2nd declension"
+    },
+    "i-qo": {
+      "reconstruction": "hikkʷos",
+      "meaning": "horse",
+      "classical_greek": "ἵππος (hippos)",
+      "etymology": "From *hikkʷos with labiovelar",
+      "pos": "noun",
+      "declension": "2nd declension",
+      "notes": "Shows labiovelar *kʷ → π (p) sound change"
+    },
+    "ku-ru-so": {
+      "reconstruction": "khrusos",
+      "meaning": "gold",
+      "classical_greek": "χρυσός (khrusos)",
+      "pos": "noun",
+      "declension": "2nd declension"
+    },
+    "di-wi-jo": {
+      "reconstruction": "diwios",
+      "meaning": "of Zeus, divine",
+      "classical_greek": "Δῖος (Dios)",
+      "etymology": "Related to Zeus (Ζεύς)",
+      "pos": "adjective",
+      "notes": "Connection to Indo-European sky god *dyēus"
+    },
+    "pa-te": {
+      "reconstruction": "pater",
+      "meaning": "father",
+      "classical_greek": "πατήρ (patēr)",
+      "pos": "noun",
+      "declension": "3rd declension",
+      "case": "nominative singular",
+      "notes": "Consonant cluster reconstruction: pa-te = pater (not *pate)"
+    },
+    "ma-te": {
+      "reconstruction": "mater",
+      "meaning": "mother",
+      "classical_greek": "μήτηρ (mētēr)",
+      "pos": "noun",
+      "declension": "3rd declension",
+      "case": "nominative singular"
+    },
+    "po-se-da-o": {
+      "reconstruction": "Poseidaon",
+      "meaning": "Poseidon (god)",
+      "classical_greek": "Ποσειδῶν (Poseidon)",
+      "pos": "proper noun",
+      "notes": "Major deity in Mycenaean religion"
+    },
+    "a-re": {
+      "reconstruction": "Ares",
+      "meaning": "Ares (god of war)",
+      "classical_greek": "Ἄρης (Ares)",
+      "pos": "proper noun"
+    },
+    "di-wo": {
+      "reconstruction": "Diwos",
+      "meaning": "Zeus (genitive)",
+      "classical_greek": "Διός (Dios)",
+      "pos": "proper noun",
+      "case": "genitive singular"
+    },
+    "qa-si-re-u": {
+      "reconstruction": "gʷasileus",
+      "meaning": "chief, leader",
+      "classical_greek": "βασιλεύς (basileus)",
+      "etymology": "From *gʷasileus with labiovelar",
+      "pos": "noun",
+      "notes": "Shows labiovelar *gʷ → β (b) change"
+    },
+    "to-so": {
+      "reconstruction": "tosos",
+      "meaning": "so much, so many",
+      "classical_greek": "τόσος (tosos)",
+      "pos": "adjective/pronoun"
+    },
+    "e-ko-to": {
+      "reconstruction": "hekhontos",
+      "meaning": "having (genitive plural)",
+      "classical_greek": "ἐχόντων (ekhonton)",
+      "pos": "verb participle"
+    },
+    "ko-wa": {
+      "reconstruction": "korwa",
+      "meaning": "girl, maiden",
+      "classical_greek": "κόρη (kore)",
+      "pos": "noun",
+      "declension": "1st declension"
+    },
+    "ko-wo": {
+      "reconstruction": "korwos",
+      "meaning": "boy, youth",
+      "classical_greek": "κοῦρος (kouros)",
+      "pos": "noun",
+      "declension": "2nd declension"
+    },
+    "a-ni-ja": {
+      "reconstruction": "hanijai",
+      "meaning": "in the year (temporal)",
+      "classical_greek": "ἐν ἔτει (en etei)",
+      "pos": "temporal expression"
+    },
+    "me-no": {
+      "reconstruction": "menos",
+      "meaning": "month",
+      "classical_greek": "μήν (men)",
+      "pos": "noun",
+      "declension": "3rd declension"
+    },
+    "wi-ri-za": {
+      "reconstruction": "wridza",
+      "meaning": "root",
+      "classical_greek": "ῥίζα (rhiza)",
+      "pos": "noun",
+      "notes": "Loss of initial digamma w → ∅"
+    },
+    "ti-ri-po": {
+      "reconstruction": "tripos",
+      "meaning": "tripod (three-footed vessel)",
+      "classical_greek": "τρίπους (tripous)",
+      "pos": "noun",
+      "notes": "Common vessel type in Bronze Age inventories"
+    },
+    "ti-ri-po-de": {
+      "reconstruction": "tripode",
+      "meaning": "tripod (dual)",
+      "classical_greek": "τρίποδε (tripode)",
+      "pos": "noun",
+      "case": "dual"
+    },
+    "ke-ra-me-u": {
+      "reconstruction": "kerameus",
+      "meaning": "potter",
+      "classical_greek": "κεραμεύς (kerameus)",
+      "pos": "noun",
+      "notes": "Craft specialist designation"
+    },
+    "ka-ke-u": {
+      "reconstruction": "khalkeus",
+      "meaning": "bronzesmith",
+      "classical_greek": "χαλκεύς (khalkeus)",
+      "pos": "noun",
+      "notes": "Important craft in Bronze Age"
+    }
+  },
+"common_endings": {
+    "-o": "nominative singular masculine/neuter (2nd declension)",
+    "-a": "nominative singular feminine (1st declension)",
+    "-e": "vocative, instrumental, or dual case",
+    "-i": "dative/locative singular",
+    "-de": "directive suffix (towards)",
+    "-te": "dative singular or plural marker",
+    "-u": "nominative singular (3rd declension)",
+    "-so": "demonstrative or quantifier",
+    "-ja": "feminine nominative singular (1st declension)"
+  }
+}
+  
