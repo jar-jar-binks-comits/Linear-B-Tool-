@@ -1,6 +1,6 @@
 # 🏛️ Linear B Transcription & Analysis Tool
 
-A web-based tool for transcribing and analyzing Linear B script - the earliest form of written Greek (c. 1450-1200 BCE). This project bridges computational linguistics, ancient epigraphy, and web development to make Mycenaean Greek accessible to researchers and enthusiasts.
+A web-based tool for transcribing and analysing Linear B script - the earliest form of written Greek (c. 1450-1200 BCE). This project bridges computational linguistics, ancient epigraphy, and web development to make Mycenaean Greek accessible to researchers and enthusiasts.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Flask](https://img.shields.io/badge/Flask-3.0+-green)
